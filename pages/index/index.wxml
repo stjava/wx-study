@@ -1,0 +1,63 @@
+<!--index.wxml-->
+<view class="v-item1" hover-class='v-item-active'>
+  <view class="v-item1-img">
+    <image class='v-item-img1' src="http://p3czlxnmu.bkt.clouddn.com/%E9%9F%B3%E4%B9%90.png" alt="">
+    </image>
+  </view>
+  <view class="v-item1-text">
+    本地音乐(253)
+  </view>
+</view>
+<view class="v-item1">
+  <view class="v-item1-img">
+    <image class='v-item-img1' src="http://p3czlxnmu.bkt.clouddn.com/%E6%92%AD%E6%94%BE.png" alt="" />
+  </view>
+  <view class="v-item1-text">
+    最近播放(253)
+  </view>
+</view>
+<view class="v-item1">
+  <view class="v-item1-img">
+    <image class='v-item-img1' src="http://p3czlxnmu.bkt.clouddn.com/%E4%B8%8B%E8%BD%BD.png" alt="" />
+  </view>
+  <view class="v-item1-text">
+    下载管理(253)
+  </view>
+</view>
+<view class="v-item1">
+  <view class="v-item1-img">
+    <image class='v-item-img1' src="http://p3czlxnmu.bkt.clouddn.com/%E7%94%B5%E5%8F%B0.png" alt="" />
+  </view>
+  <view class="v-item1-text">
+    我的电台(253)
+  </view>
+</view>
+<view class="v-item1">
+  <view class="v-item1-img">
+    <image class='v-item-img1' src="http://p3czlxnmu.bkt.clouddn.com/%E6%94%B6%20%E8%97%8F.png" alt="" />
+  </view>
+  <view class="v-item1-text">
+    我的收藏(253)
+  </view>
+</view>
+<view class="v-title1">
+  创建的歌单
+</view>
+<view class="v-item2">
+  <view class="v-item2-img">
+    <image class="v-item-img" src="http://p3czlxnmu.bkt.clouddn.com/TIM%E6%88%AA%E5%9B%BE20180208205817.png" alt="" />
+  </view>
+  <view class="v-item2-text">
+    <view class="v-item-title">我喜欢的音乐</view>
+    <view class="v-itme-content">320首，已下载20首</view>
+  </view>
+</view>
+<view class="v-item2">
+  <view class="v-item2-img">
+    <image class="v-item-img" src="http://p3czlxnmu.bkt.clouddn.com/TIM%E6%88%AA%E5%9B%BE20180208210306.png" alt="" />
+  </view>
+  <view class="v-item2-text">
+    <view class="v-item-title">音乐集合1</view>
+    <view class="v-itme-content">220首，已下载30首</view>
+  </view>
+</view>
